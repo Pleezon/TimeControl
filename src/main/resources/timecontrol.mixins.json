@@ -1,0 +1,10 @@
+{
+  "required": true,
+  "package": "de.techgamez.pleezon.mixin.mixins",
+  "refmap": "timecontrol.mixins.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "minVersion": "0.7.11",
+  "mixins": [
+    "MixinMinecraftServer"
+  ]
+}

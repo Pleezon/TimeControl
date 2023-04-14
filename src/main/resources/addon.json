@@ -1,0 +1,8 @@
+{
+  "name": "TimeControl",
+  "description": "allows the controlling of singleplayer worldspeeds using .fac <factor>.",
+  "author": "Pleezon",
+  "uuid": "%uuid%",
+  "mainClass": "de.techgamez.pleezon.TimeControl",
+  "transformerClass": "de.techgamez.pleezon.mixin.MixinLoader"
+}
